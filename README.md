@@ -19,6 +19,7 @@
 - JEB
 - Jadx-gui
 - nodejs, npm
+- EX studio(live2d)
 
 #### Program
 <!-- D:\Program -->
@@ -47,3 +48,4 @@
 - madVR
 - qBittorrent
 - jjdown
+
