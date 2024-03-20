@@ -15,7 +15,7 @@
 - charles
 - cheat engine
 - VS, IntelliJ(jetbra)
-- IDA
+- IDA(keypatch)
 - JEB
 - Jadx-gui
 - nodejs, npm
