@@ -18,6 +18,7 @@
 - IDA(keypatch)
 - JEB
 - Jadx-gui
+- peid, apkid
 - nodejs, npm
 - EX studio(live2d)
 
@@ -43,6 +44,7 @@
 - wallpaper engine
 - baidu netdisk, ali
 - OBS studio
+- voicemeeter
 - MSI afterburner
 - dandanplay
 - madVR
