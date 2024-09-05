@@ -21,6 +21,8 @@
 - peid, apkid
 - nodejs, npm
 - EX studio(live2d)
+- 中国蚁剑
+- nmap
 
 #### Program
 <!-- D:\Program -->
@@ -28,6 +30,9 @@
 - community302
 - nginx
 - clash
+- parsec
+- 中国蚁剑
+- 御剑路径扫描
 
 #### Others
 - potplayer
