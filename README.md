@@ -1,17 +1,17 @@
 #### IT dev tools
 - wireshark
-- go
+- go, rust
 - ruby
 - git
 - java
-- python, mini conda
+- python, mini-conda
 - vscode
 - docker
 - Android Studio
 - blender
 - burp suite
-- xshell
-- zotero
+- xshell, xftp
+- zotero(翻译插件，zotfile), 知云文献翻译
 - charles
 - cheat engine
 - VS, IntelliJ(jetbra)
@@ -19,20 +19,29 @@
 - JEB
 - Jadx-gui
 - peid, apkid
-- nodejs, npm
+- nodejs, npm, nvm
 - EX studio(live2d)
 - 中国蚁剑
 - nmap
+- choco
+- cocos creator
+- postman
+- xmind, 飞书
+- VMware
 
 #### Program
 <!-- D:\Program -->
 - MAA
-- community302
+- Snipaste
 - nginx
 - clash
 - parsec
 - 中国蚁剑
 - 御剑路径扫描
+- Huion
+- AssetStudioModGUI / AssetRipper
+- foxit pdf
+- univpn, openvpn
 
 #### Others
 - potplayer
@@ -55,4 +64,5 @@
 - madVR
 - qBittorrent
 - jjdown
-
+- L2dViewer
+- BCut
