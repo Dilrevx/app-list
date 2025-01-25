@@ -44,6 +44,7 @@
 - univpn, openvpn
 
 #### Others
+- idm(irespack)
 - potplayer
 - qq, weixin
 - steam, epic
