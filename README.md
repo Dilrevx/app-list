@@ -1,3 +1,8 @@
+A lot of dependencies are available in choco.
+```powershell
+choco install gsudo # gsudo provides richer facilities than builtin sudo in 2024
+sudo choco install wireshark git blender charles4 7zip crystaldiskinfo die ngrok ffmpeg nmap obs-studio qbittorrent selenium-chromium-edge-driver
+```
 #### IT dev tools
 - wireshark
 - go, rust
@@ -28,6 +33,7 @@
 - postman
 - xmind, 飞书
 - VMware
+- gsudo
 
 #### Program
 <!-- D:\Program -->
