@@ -34,6 +34,10 @@ sudo choco install wireshark git blender charles4 7zip crystaldiskinfo die ngrok
 - xmind, 飞书
 - VMware
 - gsudo
+- 010 editor
+- frida(also install frida-server in emulator), magisk
+- objection
+- 
 
 #### Program
 <!-- D:\Program -->
@@ -50,7 +54,7 @@ sudo choco install wireshark git blender charles4 7zip crystaldiskinfo die ngrok
 - univpn, openvpn
 
 #### Others
-- idm(irespack)
+- idm(lrespack)
 - potplayer
 - qq, weixin
 - steam, epic
