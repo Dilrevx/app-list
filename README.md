@@ -69,7 +69,7 @@ sudo choco install wireshark git blender charles4 7zip crystaldiskinfo die ngrok
 - wallpaper engine
 - baidu netdisk, ali
 - OBS studio
-- voicemeeter
+- voicemeeter(banana)
 - MSI afterburner
 - dandanplay
 - madVR
