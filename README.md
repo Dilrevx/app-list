@@ -37,7 +37,7 @@ sudo choco install wireshark git blender charles4 7zip crystaldiskinfo die ngrok
 - 010 editor
 - frida(also install frida-server in emulator), magisk
 - objection
-- 
+- AnotherRedisDesktopManager (remote connect to redis-server)
 
 #### Program
 <!-- D:\Program -->
